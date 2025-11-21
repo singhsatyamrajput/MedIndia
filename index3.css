@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #00a896;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1, p, h2 {
+  color: white;
+}
+
+div {
+  margin: 20px auto;
+  width: 250px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #00a896;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto 10px;
+}
