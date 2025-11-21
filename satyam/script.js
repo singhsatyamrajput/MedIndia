@@ -1,0 +1,20 @@
+// console.log("This is javaclass1.js")
+// console.log("Raju Yadav")
+// var a = 5 
+// console.log(a) 
+// a=10(reinitialization allowed in var)
+// console.log(a) 
+// var a=15(redeclaration allowed in var)
+// console.log(a)
+// let a = 5
+// console.log(a) 
+//     a=10 (reinitialization allowed in let)
+// console.log(a) 
+// let a=15 (redeclaration not allowed in let)
+// console.log(a)
+// const a = 5 
+// console.log(a) 
+//     a=10 (reinitialization not allowed in const)
+// console.log(a) 
+// const a=15 (redeclaration not allowed in const)
+// console.log(a)
