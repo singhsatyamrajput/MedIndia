@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #00a896;
+  background-color: rgb(72, 30, 30);
   font-family: Arial, sans-serif;
   text-align: center;
 }
@@ -19,7 +19,7 @@ div {
 }
 
 h2 {
-  color: #00a896;
+  color:rgb(47, 9, 9);
 }
 
 img {
